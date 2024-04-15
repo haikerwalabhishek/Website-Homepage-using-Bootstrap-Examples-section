@@ -10,7 +10,7 @@ This project serves as a practical exercise for learning full-stack web developm
 ## Link:
 
 
-https://haikerwalabhishek.github.io/Colorful-Sanskrit-Learn-the-Colors-in-Sanskrit/
+[https://haikerwalabhishek.github.io/Colorful-Sanskrit-Learn-the-Colors-in-Sanskrit/](https://haikerwalabhishek.github.io/Website-Homepage-using-Bootstrap-Examples-section/)
 
 ## Preview:
 
