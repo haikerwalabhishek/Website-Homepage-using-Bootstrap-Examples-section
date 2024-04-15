@@ -1,0 +1,77 @@
+.gradient-background {
+  background: linear-gradient(300deg,#f01414, #5111e6, rgb(240, 19, 19));
+  background-size: 180% 180%;
+  animation: gradient-animation 11s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.row{
+  width: 100%;
+}
+h1{
+  color:white;
+  margin-left: 100px;
+}
+
+.logo{
+  height: 70px;
+  padding: 0%;
+  margin: 0%;
+}
+
+
+.brightness img:hover {
+  opacity: .5;
+}
+
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.boxx{
+  margin-right: 200px;
+}
+
+.person{
+  border-radius: 100%;
+}
+
+.swipe{
+  font-weight: 800;
+}
+
+.plus{
+  background-color:tomato;
+  color: aliceblue;
+}
+
+.gold{
+  color: white;
+  font-weight: 700;
+  background-color:gold;
+}
+
+.IT{
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border-radius: 5px;
+  font-weight: 700;
+}
