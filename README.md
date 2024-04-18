@@ -5,7 +5,7 @@ his project is a website homepage template created using Bootstrap's example sec
 ## Purpose:
 
 
-This project serves as a practical exercise for learning full-stack web development, focusing on frontend design using Bootstrap 
+This project serves as a practical exercise for learning full-stack web development, focusing on frontend design using Bootstrap and CSS
 
 ## Link:
 
